@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://imtc-monitor.dccnet.com.cn/file/dspFileDownload?FileUpDownloadValidatorId=filedownload&FileUpDownloadValidatorFileName=device_register.ipa</string>
+                        <string>https://imtc-monitor.dccnet.com.cn/file/dspFileDownload?FileUpDownloadValidatorId=filedownload&FileUpDownloadValidatorFileName=device_register.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
